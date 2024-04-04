@@ -1,0 +1,77 @@
+.dropdown-inputs {
+    width: 600px;
+    background-color: #170229;
+}
+
+.ingredient-input {
+    text-shadow: 0 0 1px rgba(50,251,226,.3),0 0 2px rgba(50,251,226,.3),0 0 5px rgba(50,251,226,.2);
+    color:#32fbe2 !important;
+    background-color: #170229;
+    width: 600px;
+    border: solid 1px white;
+}
+
+.dropdown-inputs > .Select-control{
+    width: 600px;
+    background-color: #170229;
+}
+
+.Select-value-label {
+    background-color: #170229;
+    text-shadow: 0 0 1px rgba(50,251,226,.3),0 0 2px rgba(50,251,226,.3),0 0 5px rgba(50,251,226,.2);
+    color:#32fbe2 !important;
+}
+
+.VirtualizedSelectOption {
+    background-color: #170229;
+    text-shadow: 0 0 1px rgba(50,251,226,.3),0 0 2px rgba(50,251,226,.3),0 0 5px rgba(50,251,226,.2);
+    color:#32fbe2 !important;
+ }
+
+ .VirtualizedSelectFocusedOption {
+    background-color: #1e0335;
+  }
+
+.Select--multi .Select-value {
+    background-color: #170229;
+    text-shadow: 0 0 1px rgba(50,251,226,.3),0 0 2px rgba(50,251,226,.3),0 0 5px rgba(50,251,226,.2);
+    color:#32fbe2 !important;
+  }
+
+  .Select--single > .Select-control .Select-value, .Select-placeholder {
+    background-color: #170229;
+    text-shadow: 0 0 1px rgba(50,251,226,.3),0 0 2px rgba(50,251,226,.3),0 0 5px rgba(50,251,226,.2);
+    color:#32fbe2 !important;
+}
+
+.submit-button {
+    width: 600px;
+    border: 2px solid #ea39b8;
+    background-color: #1e0335;
+    text-shadow: 0 0 1px #7d1d62,0 0 2px #7d1d62,0 0 5px #7d1d62;
+    color: #ea39b8;
+}
+
+.submit-button:hover {
+    border: 2px solid #ea39b8;
+    background-color: #ea39b8;
+    color: white;
+}
+
+.submit-button:active {
+    border: 2px solid #ea39b8;
+    background-color: #ea39b8;
+    color: white;
+}
+
+.drink-card {
+    border-radius: 25px;
+    border: 1px solid #ea39b8;
+    box-shadow: 0 0 1px #ea39b8,0 0 2px #ea39b8,0 0 5px #ea39b8;
+}
+
+.drink-text {
+    text-shadow: 0 0 1px #7d1d62,0 0 2px #7d1d62,0 0 5px #7d1d62;
+    color: #ea39b8;
+}
+
